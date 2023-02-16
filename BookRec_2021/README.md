@@ -24,7 +24,7 @@
 
 | Model                                                        | Accuracy | Recall | F1-score |
 | ------------------------------------------------------------ | -------- | ------ | -------- |
-| [MLP(官方baseline)](https://work.datafountain.cn/forum?id=563&type=2&source=1)) |          |        |          |
+| [MLP(官方baseline)](https://work.datafountain.cn/forum?id=563&type=2&source=1) |          |        |          |
 | [SASRec](https://arxiv.org/abs/1808.09781)                   |          |        |          |
 | [CL4SRec](https://arxiv.org/abs/2010.14395)                  |          |        |          |
 | [CoSeRec](https://arxiv.org/abs/2108.06479)                  |          |        |          |
