@@ -22,7 +22,7 @@
 
 ##### 提供的数据适合使用序列推荐模型进行建模，所以这里直接使用现有的序列推荐模型进行训练并作为基准模型在NDCG、HitRatio、F1-Score上进行比较进行比较，其结果如下所示：
 
-| Model                                                        | NDCG@10(valid dataset) | HR@10(valid dataset) | F1-score(test dataset) | F1-score(test dataset) |
+| Model                                                        | NDCG@10(valid dataset) | HR@10(valid dataset) | F1-score(valid dataset) | F1-score(test dataset) |
 | ------------------------------------------------------------ | -------- | ------ | -------- | -------- |
 | [MLP(官方baseline)](https://work.datafountain.cn/forum?id=563&type=2&source=1) |          |        |        |          |
 | [SASRec](https://arxiv.org/abs/1808.09781)                   |          |        |     |     |
