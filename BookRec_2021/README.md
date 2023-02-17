@@ -22,16 +22,16 @@
 
 ##### 提供的数据适合使用序列推荐模型进行建模，所以这里直接使用现有的序列推荐模型进行训练并作为基准模型在NDCG、HitRatio、F1-Score上进行比较进行比较，其结果如下所示：
 
-| Model                                                        | NDCG@10(valid dataset) | HR@10(valid dataset) | F1-score(test dataset) |
-| ------------------------------------------------------------ | -------- | ------ | -------- |
-| [MLP(官方baseline)](https://work.datafountain.cn/forum?id=563&type=2&source=1) |          |        |          |
-| [SASRec](https://arxiv.org/abs/1808.09781)                   |          |        |          |
-| [CL4SRec](https://arxiv.org/abs/2010.14395)                  |          |        |          |
-| [CoSeRec](https://arxiv.org/abs/2108.06479)                  |          |        |          |
-| [ICLRec](https://arxiv.org/pdf/2202.02519.pdf)               |          |        |          |
-| [DuoRec](https://arxiv.org/abs/2110.05730)                   |          |        |          |
-| [SRMA](https://arxiv.org/abs/2203.15508)                     |          |        |          |
-| [MCLRec](https://github.com/QinHsiu/MCLRec)                  |          |        |          |
+| Model                                                        | NDCG@10(valid dataset) | HR@10(valid dataset) | F1-score(test dataset) | F1-score(test dataset) |
+| ------------------------------------------------------------ | -------- | ------ | -------- | -------- |
+| [MLP(官方baseline)](https://work.datafountain.cn/forum?id=563&type=2&source=1) |          |        |        |          |
+| [SASRec](https://arxiv.org/abs/1808.09781)                   |          |        |     |     |
+| [CL4SRec](https://arxiv.org/abs/2010.14395)                  |          |        |     |     |
+| [CoSeRec](https://arxiv.org/abs/2108.06479)                  |          |        |     |     |
+| [ICLRec](https://arxiv.org/pdf/2202.02519.pdf)               |          |        |     |     |
+| [DuoRec](https://arxiv.org/abs/2110.05730)                   |          |        |     |     |
+| [SRMA](https://arxiv.org/abs/2203.15508)                     |          |        |     |     |
+| [MCLRec](https://github.com/QinHsiu/MCLRec)                  |          |        |     |     |
 
 ## 5.结果复现
 
