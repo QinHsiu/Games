@@ -24,7 +24,7 @@
 
 | Model                                                        | NDCG@10(valid dataset) | HR@10(valid dataset) | F1-score(valid dataset) | F1-score(test dataset) |
 | ------------------------------------------------------------ | -------- | ------ | -------- | -------- |
-| [MLP(官方baseline)](https://work.datafountain.cn/forum?id=563&type=2&source=1) |          |        |        |          |
+| [MLP(官方baseline)](https://work.datafountain.cn/forum?id=563&type=2&source=1) |  0.22277351750398658        | 0.3887391434561246       |   0.17319495973601873    |   0.00056154537       |
 | [SASRec](https://arxiv.org/abs/1808.09781)                   |          |        |     |     |
 | [CL4SRec](https://arxiv.org/abs/2010.14395)                  |          |        |     |     |
 | [CoSeRec](https://arxiv.org/abs/2108.06479)                  |          |        |     |     |
