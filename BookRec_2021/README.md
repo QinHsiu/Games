@@ -30,7 +30,7 @@
 | [CoSeRec](https://arxiv.org/abs/2108.06479)                  |          |        |     |     |
 | [ICLRec](https://arxiv.org/pdf/2202.02519.pdf)               |      0.1051    | 0.2094       | 0.0310    | 0.00935908955    |
 | [DuoRec](https://arxiv.org/abs/2110.05730)                   |          |        |     |     |
-| [SRMA](https://arxiv.org/abs/2203.15508)                     |          |        |     |     |
+| [SRMA](https://arxiv.org/abs/2203.15508)                     |    0.4792      |    0.6890    |   0.4578  |    0.01222297095 |
 | [MCLRec](https://github.com/QinHsiu/MCLRec)                  |          |        |     |     |
 
 ## 5.结果复现
