@@ -28,7 +28,7 @@
 | [SASRec](https://arxiv.org/abs/1808.09781)                   |   0.1334       |   0.2136     |   0.1285  |   0.02420260557  |
 | [CL4SRec](https://arxiv.org/abs/2010.14395)                  |    0.1132      | 0.2140       |  0.0480   |   0.01385145253  |
 | [CoSeRec](https://arxiv.org/abs/2108.06479)                  |          |        |     |     |
-| [ICLRec](https://arxiv.org/pdf/2202.02519.pdf)               |          |        |     |     |
+| [ICLRec](https://arxiv.org/pdf/2202.02519.pdf)               |      0.1051    | 0.2094       | 0.0310    | 0.00935908955    |
 | [DuoRec](https://arxiv.org/abs/2110.05730)                   |          |        |     |     |
 | [SRMA](https://arxiv.org/abs/2203.15508)                     |          |        |     |     |
 | [MCLRec](https://github.com/QinHsiu/MCLRec)                  |          |        |     |     |
