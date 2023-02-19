@@ -26,7 +26,7 @@
 | ------------------------------------------------------------ | -------- | ------ | -------- | -------- |
 | [MLP(官方baseline)](https://work.datafountain.cn/forum?id=563&type=2&source=1) |  0.2228        | 0.3887       |   0.1732    |   0.00056154537       |
 | [SASRec](https://arxiv.org/abs/1808.09781)                   |   0.1334       |   0.2136     |   0.1285  |   0.02420260557  |
-| [CL4SRec](https://arxiv.org/abs/2010.14395)                  |          |        |     |     |
+| [CL4SRec](https://arxiv.org/abs/2010.14395)                  |    0.1132      | 0.2140       |  0.0480   |   0.01385145253  |
 | [CoSeRec](https://arxiv.org/abs/2108.06479)                  |          |        |     |     |
 | [ICLRec](https://arxiv.org/pdf/2202.02519.pdf)               |          |        |     |     |
 | [DuoRec](https://arxiv.org/abs/2110.05730)                   |          |        |     |     |
