@@ -27,10 +27,10 @@
 | [MLP(官方baseline)](https://work.datafountain.cn/forum?id=563&type=2&source=1) |  0.2228        | 0.3887       |   0.1732    |   0.00056154537       |
 | [SASRec](https://arxiv.org/abs/1808.09781)                   |   0.1334       |   0.2136     |   0.1285  |   0.02420260557  |
 | [CL4SRec](https://arxiv.org/abs/2010.14395)                  |    0.1132      | 0.2140       |  0.0480   |   0.01385145253  |
-| [CoSeRec](https://arxiv.org/abs/2108.06479)                  |          |        |     |     |
+| [CoSeRec](https://arxiv.org/abs/2108.06479)                  |      0.0823    |  0.1801      |   0.0503  |   0.01211066187  |
 | [ICLRec](https://arxiv.org/pdf/2202.02519.pdf)               |      0.1051    | 0.2094       | 0.0310    | 0.00935908955    |
 | [DuoRec](https://arxiv.org/abs/2110.05730)                   |          |        |     |     |
-| [SRMA](https://arxiv.org/abs/2203.15508)                     |    0.4792      |    0.6890    |   0.4578  |    0.01222297095 |
+| [SRMA](https://arxiv.org/abs/2203.15508)                     |    0.1210      |    0.2265    |   0.0691  |    0.01222297095 |
 | [MCLRec](https://github.com/QinHsiu/MCLRec)                  |     0.1289     |  0.2137      | 0.5410    | 0.01725816113    |
 
 ## 5.结果复现
