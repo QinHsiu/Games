@@ -1,4 +1,4 @@
-# 记录一些参加过的数据挖掘相关的比赛
+# 记录一些数据挖掘相关的比赛
 
 - [2023 广告精准投放](https://www.datafountain.cn/competitions/629/datasets) 数据和模型参看：ADPlacement_2023
 - [2023 点击反欺诈预测](https://aistudio.baidu.com/aistudio/competition/detail/818/0/introduction) 数据和模型参看：AntiFraudForecast_2023
